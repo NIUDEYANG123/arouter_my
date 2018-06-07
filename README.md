@@ -11,7 +11,7 @@
 
 # AndroidModulePattern
 
-Android项目组件化示例代码
+Android项目组件化示例代码n
 
 **Android组件化方案**：http://blog.csdn.net/guiying712/article/details/55213884
 
