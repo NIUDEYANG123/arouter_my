@@ -3,6 +3,7 @@
     package="com.guiying.module.boy">
 
     <application>
+
         <activity android:name=".ManActivity" />
     </application>
 
